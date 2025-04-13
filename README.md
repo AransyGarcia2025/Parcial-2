@@ -35,3 +35,8 @@ El sistema valida correctamente los datos ingresados utilizando expresiones regu
 
 ### Compilar:
 bash javac RegistroUsuariosApp.java User.java Validador.java
+
+Autor
+Desarrollado por Aransy García.
+
+
