@@ -19,4 +19,19 @@ El sistema valida correctamente los datos ingresados utilizando expresiones regu
 - Menú interactivo en consola para facilitar la navegación.
 
 ## Estructura del Proyecto
+📂 src ├── RegistroUsuariosApp.java 
+          ├── User.java 
+              └── Validador.java 
+              📄 usuarios.txt 
+              📄 README.md 
+              📄 .gitignore
 
+## Requisitos
+
+- Java JDK 8 o superior.
+- Editor o IDE de tu preferencia (IntelliJ IDEA, Eclipse, VSCode, etc.).
+
+## Compilación y Ejecución
+
+### Compilar:
+bash javac RegistroUsuariosApp.java User.java Validador.java
